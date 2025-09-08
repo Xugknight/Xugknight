@@ -26,12 +26,12 @@ I enjoy tackling projects that blend **functionality** with **style**, from inte
 
 ---
 
-<!--
+
 ### 🌟 Featured Projects
-- [**Super Sweat**](https://your-deployed-link.com) → A Django-powered gaming guild & events platform with profiles, memberships, and event scheduling  
-- [Quick-Notes](https://quick-notes-0105ece0e60a.herokuapp.com/) → A lightweight MERN app for fast CRUD note-taking, featuring search and pinned notes  
-- [**Restaurant Randomizer**](https://your-deployed-link.com) → An Express + MongoDB app to help users decide where to eat with filters, favorites, and randomizer feature  
--->
+- [**Super Sweat**](https://super-sweat-587284064cdd.herokuapp.com/) → A Django-powered gaming guild & events platform with profiles, memberships, and event scheduling  
+- [**Quick-Notes**](https://quick-notes-0105ece0e60a.herokuapp.com/) → A lightweight MERN app for fast CRUD note-taking, featuring search and pinned notes  
+- [**Game-Club**](https://game-club-7dfc89d36c85.herokuapp.com/) → A full-stack app for discovering, reviewing, and favoriting games, with RAWG API integration
+
 
 ---
 
