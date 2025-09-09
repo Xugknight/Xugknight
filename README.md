@@ -13,10 +13,11 @@ I enjoy tackling projects that blend **functionality** with **style**, from inte
 ---
 
 ### 🛡️ Skills
-- **Frontend:** React, Vite, CSS (clean, responsive, and user-focused design)  
-- **Backend:** Node.js, Express, Django, RESTful APIs  
-- **Database:** MongoDB, PostgreSQL  
-- **Other:** Git/GitHub, Heroku, Neon, Agile/Scrum  
+- **Languages:** JavaScript, Python, SQL, HTML, CSS, Bash
+- **Frontend:** React, Vite, EJS, UI/UX polish  
+- **Backend:** Node.js, Express, Django, RESTful APIs, JWT Auth  
+- **Database:** MongoDB, PostgreSQL, Mongoose 
+- **Tools & Workflow:** Git/GitHub, Heroku, Neon, Agile/Scrum, Postman
 
 ---
 
