@@ -32,7 +32,7 @@ I enjoy tackling projects that blend **functionality** with **style**, from inte
 - [**Bookbound**](https://bookbound.knightworks.dev/) → A cozy, modern MERN reading tracker with Open Library API integration, ratings, notes, and personalized lists  
 - [**Super Sweat**](https://super-sweat-587284064cdd.herokuapp.com/) → A Django-powered gaming guild & events platform with profiles, memberships, and event scheduling  
 - [**Quick-Notes**](https://quick-notes.knightworks.dev/) → A lightweight MERN app for fast CRUD note-taking, featuring search and pinned notes  
-- [**Game-Club**](https://game-club-7dfc89d36c85.herokuapp.com/) → A full-stack app for discovering, reviewing, and favoriting games, with RAWG API integration
+- [**Game-Club**](https://gameclub.knightworks.dev/) → A full-stack app for discovering, reviewing, and favoriting games, with RAWG API integration
 
 
 ---
