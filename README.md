@@ -7,8 +7,8 @@ I enjoy tackling projects that blend **functionality** with **style**, from inte
 
 ### 🚀 What I’m up to
 - 🌱 Sharpening my skills in modern web development  
-- 🛠️ Expanding my portfolio with projects that push both design and functionality  
-- 🎮 Brainstorming ideas for future builds once I’m satisfied with my current lineup  
+- 🛠️ Expanding my portfolio with polished, production-ready projects  
+- 🎮 Exploring ideas for future builds once my current projects are solid 
 
 ---
 
@@ -30,9 +30,9 @@ I enjoy tackling projects that blend **functionality** with **style**, from inte
 
 ### 🌟 Featured Projects
 - [**Bookbound**](https://bookbound.knightworks.dev/) → A cozy, modern MERN reading tracker with Open Library API integration, ratings, notes, and personalized lists  
-- [**Super Sweat**](https://super-sweat-587284064cdd.herokuapp.com/) → A Django-powered gaming guild & events platform with profiles, memberships, and event scheduling  
-- [**Quick-Notes**](https://quick-notes.knightworks.dev/) → A lightweight MERN app for fast CRUD note-taking, featuring search and pinned notes  
 - [**Game-Club**](https://gameclub.knightworks.dev/) → A full-stack app for discovering, reviewing, and favoriting games, with RAWG API integration
+- [**Quick-Notes**](https://quick-notes.knightworks.dev/) → A lightweight MERN app for fast CRUD note-taking, featuring search and pinned notes  
+- [**Super Sweat**](https://super-sweat-587284064cdd.herokuapp.com/) → A Django-powered gaming guild & events platform with profiles, memberships, and event scheduling  
 
 
 ---
