@@ -38,9 +38,9 @@ I enjoy tackling projects that blend **functionality** with **style**, from inte
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xugknight&theme=vision-friendly-dark&langs_count=8)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Xugknight&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Xugknight&langs_count=6&theme=dark_github)
 
-[![wakatime](https://wakatime.com/badge/user/ee768c49-f9fc-4c41-94de-759f4b05986b.svg?style=for-the-badge)](https://wakatime.com/@ee768c49-f9fc-4c41-94de-759f4b05986b)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Xugknight&layout=compact&langs_count=14&theme=dark_github)](https://wakatime.com/@Xugknight)
 
 ---
 
